@@ -1,4 +1,6 @@
-## Hi there 👋
+## *Olá, seja bem vindo* 👋
+
+Estudo na {escola Nicota}(instagran/escola.donanicota)
 
 <!--
 **Pimpolho47/Pimpolho47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
